@@ -24,7 +24,7 @@
         },
         {
             "name": "nginx",
-            "image": "busfahrer/nginx",
+            "image": "busfahrer/multi-nginx",
             "hostname": "nginx",
             "essential": true,
             "portMappings": [
